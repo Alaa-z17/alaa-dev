@@ -8,6 +8,7 @@
   <a href="mailto:alaaalkatshah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alaa-alkatshah-65339620b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Alaa-z17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@Alaa_Alkatshah"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ---
@@ -105,11 +106,30 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 ### 🔹 [Project Name](https://github.com/yourusername/project-repo)
 **Tech:** C# · ASP.NET Web API · SQL Server · ADO.NET
 Brief description of what it does and what problem it solves.
+▶️ [Watch Demo](https://youtu.be/YOUR_VIDEO_ID)
 
   ============================================================
 -->
 
 ---
+
+## 🎬 Demo Videos
+
+> Short demo videos showcasing my projects — what they do, the tech stack used, and how to use them.
+
+<!--
+  ============================================================
+  ADD YOUR DEMO VIDEOS HERE using the template below:
+  ============================================================
+
+### ▶️ [Project Name — Demo](https://youtu.be/YOUR_VIDEO_ID)
+[![Project Name Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+**Tech:** C# · ASP.NET Web API · SQL Server
+
+  ============================================================
+-->
+
+📺 _Videos coming soon — [Subscribe to get notified](https://www.youtube.com/@YOUR_CHANNEL)_
 
 ---
 
@@ -119,7 +139,8 @@ I'm open to **internship**, **junior**, or **entry-level Backend .NET** opportun
 
 - 📧 Email: `alaaalkatshah@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/alaa-alkatshah-65339620b](https://www.linkedin.com/in/alaa-alkatshah-65339620b/)
-- 🌍 Location: DSyria / On-site / Remote-friendly
+- 📺 YouTube: [https://www.youtube.com/@Alaa_Alkatshah](https://www.youtube.com/@YOUR_CHANNEL)
+- 🌍 Location: Syria / On-site / Remote-friendly
 
 ---
 
