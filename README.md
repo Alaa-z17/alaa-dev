@@ -114,8 +114,8 @@ Brief description of what it does and what problem it solves.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alaa alkatshah&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaa Alkatshah&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -126,7 +126,7 @@ I'm open to **internship**, **junior**, or **entry-level Backend .NET** opportun
 
 - 📧 Email: `alaaalkatshah@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/alaa-alkatshah-65339620b](https://www.linkedin.com/in/alaa-alkatshah-65339620b/)
-- 🌍 Location: Syria / On-site / Remote-friendly
+- 🌍 Location: Damascus-Syria / On-site / Remote-friendly
 
 ---
 
