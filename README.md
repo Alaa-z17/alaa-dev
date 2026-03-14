@@ -139,7 +139,7 @@ I'm open to **internship**, **junior**, or **entry-level Backend .NET** opportun
 
 - 📧 Email: `alaaalkatshah@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/alaa-alkatshah-65339620b](https://www.linkedin.com/in/alaa-alkatshah-65339620b/)
-- 📺 YouTube: [https://www.youtube.com/@Alaa_Alkatshah](https://www.youtube.com/@YOUR_CHANNEL)
+- 📺 YouTube: [https://www.youtube.com/@Alaa_Alkatshah](https://www.youtube.com/@Alaa_Alkatshah)
 - 🌍 Location: Syria / On-site / Remote-friendly
 
 ---
