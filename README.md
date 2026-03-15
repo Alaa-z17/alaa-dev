@@ -96,7 +96,9 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 ## 📂 Projects
 
-> ⚙️ _Coming soon — Currently building projects to showcase on GitHub_
+### 🔹 [rock-paper-scissors-cpp](https://github.com/Alaa-z17/rock-paper-scissors-cpp)
+
+**Tech:** A console-based Rock Paper Scissors game in C++ demonstrating Functional & Procedural Programming principles — enums, structs, and single-responsibility functions.
 
 <!--
   ============================================================
