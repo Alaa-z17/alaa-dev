@@ -131,7 +131,7 @@ Brief description of what it does and what problem it solves.
   ============================================================
 -->
 
-📺 _Videos coming soon — [Subscribe to get notified](https://www.youtube.com/@YOUR_CHANNEL)_
+📺 _Videos coming soon — [Subscribe to get notified](https://www.youtube.com/@Alaa_Alkatshah)_
 
 ---
 
