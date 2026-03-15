@@ -100,6 +100,10 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 **Tech:** A console-based Rock Paper Scissors game in C++ demonstrating Functional & Procedural Programming principles — enums, structs, and single-responsibility functions.
 
+### 🔹 [math-quiz-cpp](https://github.com/Alaa-z17/math-quiz-cpp)
+
+**Tech:** A console-based Math Quiz game in C++ demonstrating Functional & Procedural Programming principles — enums, structs, and single-responsibility functions.
+
 <!--
   ============================================================
   ADD YOUR PROJECTS HERE using the template below:
