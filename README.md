@@ -108,6 +108,10 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 **Tech:** A console-based Simple Store app in C++ demonstrating Functional & Procedural Programming principles — enums, structs, and single-responsibility functions.
 
+### 🔹 [hotel-booking-cpp](https://github.com/Alaa-z17/hotel-booking-cpp)
+
+**Tech:** A console-based Hotel Booking System in C++ demonstrating Functional & Procedural Programming — vectors, file I/O, exception handling, pointers, and strings.
+
 <!--
   ============================================================
   ADD YOUR PROJECTS HERE using the template below:
