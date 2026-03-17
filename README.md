@@ -112,6 +112,10 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 **Tech:** A console-based Hotel Booking System in C++ demonstrating Functional & Procedural Programming — vectors, file I/O, exception handling, pointers, and strings.
 
+### 🔹 [contact-book-cpp](https://github.com/Alaa-z17/contact-book-cpp)
+
+**Tech:** A console-based Contact Book app in C++ demonstrating advanced Procedural Programming — vectors, pointers, recursion, dynamic memory, file I/O, and string methods.
+
 <!--
   ============================================================
   ADD YOUR PROJECTS HERE using the template below:
