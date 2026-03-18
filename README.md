@@ -116,6 +116,9 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 **Tech:** A console-based Contact Book app in C++ demonstrating advanced Procedural Programming — vectors, pointers, recursion, dynamic memory, file I/O, and string methods.
 
+
+### 🔹 [bank-management-cpp](https://github.com/Alaa-z17/bank-management-cpp)
+**Tech:** A console-based Bank Management System in C++ demonstrating Functional & Procedural Programming — file I/O, XOR encryption, bitwise permissions, login system, recursive merge sort, and role-based access control.
 <!--
   ============================================================
   ADD YOUR PROJECTS HERE using the template below:
