@@ -96,6 +96,13 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 ## 📂 Projects
 
+
+### 🔹 [bank-management-system-oop-cpp](https://github.com/Alaa-z17/bank-management-system-oop-cpp)
+
+**Tech:** A comprehensive, production-ready Bank Management System built in C++ with enterprise-grade features including secure authentication, encrypted data storage, currency exchange, and complete transaction logging. Demonstrates advanced OOP concepts, security implementations, and real-world banking operations.
+
+
+
 ### 🔹 [rock-paper-scissors-cpp](https://github.com/Alaa-z17/rock-paper-scissors-cpp)
 
 **Tech:** A console-based Rock Paper Scissors game in C++ demonstrating Functional & Procedural Programming principles — enums, structs, and single-responsibility functions.
@@ -119,6 +126,10 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 ### 🔹 [bank-management-cpp](https://github.com/Alaa-z17/bank-management-cpp)
 **Tech:** A console-based Bank Management System in C++ demonstrating Functional & Procedural Programming — file I/O, XOR encryption, bitwise permissions, login system, recursive merge sort, and role-based access control.
+
+### 🔹 [atm-system-cpp](https://github.com/Alaa-z17/atm-system-cpp)
+**Tech:** A console-based ATM System in C++ demonstrating Functional & Procedural Programming — file I/O, login authentication, quick withdraw, deposit, and balance checking.
+
 <!--
   ============================================================
   ADD YOUR PROJECTS HERE using the template below:
