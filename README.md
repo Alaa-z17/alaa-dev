@@ -96,6 +96,9 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 ## 📂 Projects
 
+### 🔹 [student-management-oop-cpp](https://github.com/Alaa-z17/student-management-oop-cpp)
+
+**Tech:** A console-based student management application built with Object-Oriented Programming principles in C++. This system allows users to perform CRUD operations on student records, track academic performance, and manage student data persistently using file storage.
 
 ### 🔹 [bank-management-system-oop-cpp](https://github.com/Alaa-z17/bank-management-system-oop-cpp)
 
