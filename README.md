@@ -96,6 +96,14 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 ## 📂 Projects
 
+### 🔹 [atm-oop-cpp](https://github.com/Alaa-z17/atm-oop-cpp)
+
+**Tech:** 🏧 ATM System built with C++ implementing OOP concepts. Features client management, deposit/withdraw, balance check, file I/O, and a modular screen-based console interface.
+
+### 🔹 [hospital-management-oop-cpp](https://github.com/Alaa-z17/hospital-management-oop-cpp)
+
+**Tech:** 🏥 Hospital Management System built with C++ implementing advanced OOP concepts. Features patient/doctor management, appointment scheduling, file I/O, and a modular screen-based console interface.
+
 ### 🔹 [student-management-oop-cpp](https://github.com/Alaa-z17/student-management-oop-cpp)
 
 **Tech:** A console-based student management application built with Object-Oriented Programming principles in C++. This system allows users to perform CRUD operations on student records, track academic performance, and manage student data persistently using file storage.
