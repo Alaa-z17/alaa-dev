@@ -96,6 +96,10 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 ## 📂 Projects
 
+### 🔹 [hospital-queue-cpp](https://github.com/Alaa-z17/hospital-queue-cpp)
+
+**Tech:** 🏧 A robust, Object-Oriented Hospital Queue Management application built with C++. This system simulates a real-world clinic waiting room where patients are processed based on the FIFO (First-In-First-Out) principle, with an integrated Priority Logic for urgent medical cases.
+
 ### 🔹 [atm-oop-cpp](https://github.com/Alaa-z17/atm-oop-cpp)
 
 **Tech:** 🏧 ATM System built with C++ implementing OOP concepts. Features client management, deposit/withdraw, balance check, file I/O, and a modular screen-based console interface.
