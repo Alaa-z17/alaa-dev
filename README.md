@@ -96,6 +96,11 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 ## 📂 Projects
 
+### 🔹 [Circular Pro Music Player (.NET Core)](https://github.com/Alaa-z17/dotnet-core-music-player-Gui)
+
+**Tech:** A professional Music Player application built with C# and Windows Forms on .NET Core. This project features a custom-built Generic Doubly Linked List for dynamic playlist management without relying on standard library containers.
+
+
 ### 🔹 [hospital-queue-cpp](https://github.com/Alaa-z17/hospital-queue-cpp)
 
 **Tech:** 🏧 A robust, Object-Oriented Hospital Queue Management application built with C++. This system simulates a real-world clinic waiting room where patients are processed based on the FIFO (First-In-First-Out) principle, with an integrated Priority Logic for urgent medical cases.
