@@ -94,9 +94,15 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 ---
 
+
 ## 📂 Projects
 
-### 🔹 [Circular Pro Music Player (.NET Core)](https://github.com/Alaa-z17/dotnet-core-music-player-Gui)
+### 🔹 [phone-book-map-dot-net (.NET Core)]()
+
+**Tech:** Advanced Contact Management System demonstrating the power of the Map/Dictionary ADT. Features instant searching and alphabetical sorting, bridging abstract data structures with a professional .NET GUI.
+
+
+### 🔹 [Circular Pro Music Player (.NET Core)](https://github.com/Alaa-z17/phone-book-map-dot-net/tree/main)
 
 **Tech:** A professional Music Player application built with C# and Windows Forms on .NET Core. This project features a custom-built Generic Doubly Linked List for dynamic playlist management without relying on standard library containers.
 
