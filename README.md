@@ -97,7 +97,7 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 ## 📂 Projects
 
-### 🔹 [phone-book-map-dot-net (.NET Core)]()
+### 🔹 [phone-book-map-dot-net (.NET Core)](https://github.com/Alaa-z17/phone-book-map-dot-net)
 
 **Tech:** Advanced Contact Management System demonstrating the power of the Map/Dictionary ADT. Features instant searching and alphabetical sorting, bridging abstract data structures with a professional .NET GUI.
 
