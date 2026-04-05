@@ -97,6 +97,16 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 ## 📂 Projects
 
+### 🔹 [data-converter-wpf-csharp (.NET Core)](https://github.com/Alaa-z17/data-converter-wpf-csharp)
+
+**Tech:** Ultimate Memory Inspector is a high-level interactive tool designed for software engineers and students to explore how data is physically stored in RAM. It bridges the gap between abstract variables and raw binary data using the IEEE 754 Standard.
+The application allows users to visualize and manipulate memory bits in real time, observing how a single bit flip can drastically change a floating-point value.
+
+
+### 🔹 [SudokuMaster-WPF-Solver (.NET Core)](https://github.com/Alaa-z17/SudokuMaster-WPF-Solver)
+
+**Tech:** A modern, high-performance Sudoku Solver built with C# and WPF. Features a smooth UI with animations and uses the Backtracking algorithm for instant puzzle solving.
+
 ### 🔹 [phone-book-map-dot-net (.NET Core)](https://github.com/Alaa-z17/phone-book-map-dot-net)
 
 **Tech:** Advanced Contact Management System demonstrating the power of the Map/Dictionary ADT. Features instant searching and alphabetical sorting, bridging abstract data structures with a professional .NET GUI.
