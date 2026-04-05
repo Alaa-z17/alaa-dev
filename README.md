@@ -197,7 +197,7 @@ Brief description of what it does and what problem it solves.
   ============================================================
 -->
 
-📺 _Videos coming soon — [Subscribe to get notified](https://www.youtube.com/@Alaa_Alkatshah)_
+📺 _Videos in my YouTupe Channel — [Subscribe to get notified](https://www.youtube.com/@Alaa_Alkatshah)_
 
 ---
 
