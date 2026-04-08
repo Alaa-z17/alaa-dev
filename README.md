@@ -96,6 +96,14 @@ I'm actively seeking a **Backend .NET Developer** position where I can contribut
 
 
 ## 📂 Projects
+### 🔹 [📚 Student Grade Tracker (.NET Core)](https://github.com/Alaa-z17/student-grade-tracker-winforms-csharp)
+
+**Tech:**A Windows Forms desktop application for managing student grades, subjects, and generating reports. Features encrypted JSON storage, CSV import/export, auto‑save, and a rich UI with grade color coding.
+
+### 🔹 [🍕 Pizza Order System – WinForms C# Application (.NET Core)](https://github.com/Alaa-z17/pizza-order-winforms-csharp)
+
+**Tech:** A complete restaurant order management system built with .NET 10.0‑Windows and Windows Forms.
+Supports multi‑language (English / Arabic), real‑time order tracking, invoice printing, and encrypted local storage.
 
 ### 🔹 [data-converter-wpf-csharp (.NET Core)](https://github.com/Alaa-z17/data-converter-wpf-csharp)
 
